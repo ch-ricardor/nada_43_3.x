@@ -16,7 +16,7 @@ This is a test project, stabilizing the code to be able to migrate the framework
 
 - Upgrade to CI 2.x
 - Upgrade to CI 3.x
-- Upgrado to PHP 7
+- Upgrade to PHP 7
 
 This instance is running on Ubuntu 16.x LTS 32 - Apache - and PHP 5.x
 
