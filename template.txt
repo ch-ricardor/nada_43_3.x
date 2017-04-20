@@ -1,0 +1,22 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+
+/**
+ * NADA 
+ *
+ * Microdata Cataloging Tool
+ *
+ * @category            
+ * @package             
+ * @subpackage             
+ * @author              
+ * @copyright           IHSN
+ * @license             http://
+ * @link                http://www.surveynetwork.org
+ * @since               Version 1.0
+ * @version             Version 4.3
+ * @filesource
+ */
+
+// ------------------------------------------------------------------------
+
+

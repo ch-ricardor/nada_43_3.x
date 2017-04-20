@@ -1,0 +1,23 @@
+cache/
+datafiles/
+!files/
+files/*
+!files/data_enclave_access.pdf
+!files/icon-blank.png
+!files/index.html
+!files/user.png
+!files/images/
+files/images/*
+!files/images/ajax-loader.gif
+!files/images/black.png
+!files/images/index.html
+!files/images/nav.png
+logs/
+application/controllers/test/
+application/third_party2/
+application/third_party3/
+*.back
+# Test layout for a responsive template
+!themes/wbr2/
+themes/wbr2/*
+!themes/wbr2/styles.css
